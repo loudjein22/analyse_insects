@@ -1,0 +1,4 @@
+id,espes,taille,_mm
+1,fourmi,4
+2,abeille,12
+3,papillon,25
